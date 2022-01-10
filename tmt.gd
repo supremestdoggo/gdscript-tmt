@@ -29,6 +29,11 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 """
 
+class_name libtmt
+
+extends Node2D
+
+
 # While constants and functions are perferred, macros may be used when needed via the AnyMacro software. See the README section on macros and building this repo for more info
 const BUF_MAX = 100
 const PAR_MAX = 8
